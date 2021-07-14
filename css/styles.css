@@ -12,6 +12,7 @@ p {
   color: #8f8f8f;
 }
 
+
 /* Headings */
 
 .big-heading {
@@ -174,4 +175,24 @@ p {
     position: static;
     transform: rotate(0); 
   }
+}
+
+/* about page */
+.about-pg-soc {
+  list-style-type: none;
+  display: inline;
+}
+
+.headshot {
+  width: 70%;
+  border-radius: 100%;
+  border: 5px solid white;
+}
+
+.bio {
+  border: 1px solid #8f8f8f;
+  border-radius: 15%;
+  box-shadow: 10px 10px #8f8f8f;
+  padding: 50px;
+  text-align: left;
 }
