@@ -193,6 +193,7 @@ p {
   border: 1px solid #8f8f8f;
   border-radius: 15%;
   box-shadow: 10px 10px #8f8f8f;
-  padding: 50px;
-  text-align: left;
+  padding: 80px;
+  text-align: justify;
+  text-indent: 50px;
 }
